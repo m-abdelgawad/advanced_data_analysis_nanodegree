@@ -4,7 +4,7 @@
 
 This project includes all the notebooks and exercises of my work that I practiced during my study of the Advanced Data Analysis Nanodegree by Udacity.
 
-I also included some important text lessons to reference back to them.
+I also included some important text lessons to refer back to them.
 
 ## Main Topics:
 
