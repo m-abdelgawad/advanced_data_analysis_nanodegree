@@ -40,7 +40,7 @@ After nearly two months of hard studying, I completed the following projects:
 
 * [Communicate Data Findings](https://github.com/m-abdelgawad/Communicate-Data-Findings)  
 
-And recieved my nanodegree certificate:
+And received my nanodegree certificate:
 
 [![Advanced Data Analysis Nanodegree by Udacity](Udacity_Nanodegree_Graduation_Certificate.jpg)](https://confirm.udacity.com/5G4S74GJ "Advanced Data Analysis Nanodegree by Udacity")
 
